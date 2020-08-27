@@ -6,7 +6,8 @@
 
 ## 操作說明
 1. 用`slide.new`新增一個google 簡報
-2. 選擇`工具`→`指令碼編輯器`
+
+3. 選擇`工具`→`指令碼編輯器`
  ![](https://i.imgur.com/P8ytv5E.png)
 
 4. 刪除所有預設文字，把`程式碼.gs`名稱改為`progress.gs`
@@ -17,7 +18,6 @@
 ## 發布
 1. 從`progressBar_GSlides.gs`複制代碼則上，記得把原本預設的代碼都刪掉
 2. 接著選擇`發布`→`部署為網頁應用程式`
-
 ![](https://i.imgur.com/WKsebG5.png)
 
 3. 選擇`核對權限`、`選擇帳戶`、如果有跳出不安全警示，選`進階`→`前往`，最後選`允許`
@@ -30,11 +30,9 @@
 1. 在`選取函式`中選擇onOpen，然後按一下左邊的播放符號，執行這個function
 ![](https://i.imgur.com/OTayLAe.png)
 2. 回到slides，在`外掛程式`中就可以看到我們的函數了
-
 ![](https://i.imgur.com/sR7Dxru.png)
 
 3. 完成
-
 ![](https://i.imgur.com/E1X7tNG.png)
 
 ## 如何修改顏色
