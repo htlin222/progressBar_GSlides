@@ -1,4 +1,7 @@
-# progressBar_GSlides
+# progressBar in Google Slides
+
+[![hackmd-github-sync-badge](https://hackmd.io/9ceRir8rQV2x5Je9xO0abQ/badge)](https://hackmd.io/9ceRir8rQV2x5Je9xO0abQ)
+
 在Google Slide中產生進度條的App Script
 
 以下教學來自於官方影片：
@@ -16,7 +19,7 @@
 
 
 ## 發布
-1. 從`progressBar_GSlides.gs`複制代碼則上，記得把原本預設的代碼都刪掉
+1. 從[progressBar.gs](https://github.com/htlin222/progressBar_GSlides/blob/master/progressBar.gs)複制代碼則上，記得把原本預設的代碼都刪掉
 2. 接著選擇`發布`→`部署為網頁應用程式`
 ![](https://i.imgur.com/WKsebG5.png)
 
@@ -36,7 +39,7 @@
 ![](https://i.imgur.com/E1X7tNG.png)
 
 ## 如何修改顏色
-1. 選擇一個條，按一下油漆桶工具，我將顏色預設為`輔色6`
+1. 選擇一個條，按一下油漆桶工具，可以看到`輔色6`是我設定的顏色
 ![](https://i.imgur.com/YVTZV8L.png)
 
 2. 按一下編輯背景主題的icon，會在右欄選`選擇主題顏色`→`輔色6`
