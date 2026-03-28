@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/htlin222/progressBar_GSlides?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/htlin222/progressBar_GSlides?style=flat-square)
+![License](https://img.shields.io/github/license/htlin222/progressBar_GSlides?style=flat-square)
+
 # progressBar in Google Slides
 
 [![hackmd-github-sync-badge](https://hackmd.io/9ceRir8rQV2x5Je9xO0abQ/badge)](https://hackmd.io/9ceRir8rQV2x5Je9xO0abQ)
